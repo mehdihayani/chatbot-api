@@ -56,7 +56,8 @@ def chatbot_query(query):
 
 # Exemple d'utilisation
 #url = "https://en.wikipedia.org/wiki/Artificial_intelligence"
-url = "https://www.britannica.com/technology/artificial-intelligence/Reasoning"
+#url = "https://www.britannica.com/technology/artificial-intelligence/Reasoning"
+url = "https://www.mhway.fr/"
 site_text = scrape_website(url)
 #print(site_text[:500])  # Afficher un extrait
 
